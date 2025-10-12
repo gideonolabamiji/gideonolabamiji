@@ -75,7 +75,7 @@
 
 ## Contact
 
-**LinkedIn:**www.linkedin.com/in/jembi-gideon-aa620793
+**LinkedIn:**https://www.linkedin.com/in/jembi-gideon-aa620793/
 - 
 - **Email:** jembi.gideon@gmail.com 
   
