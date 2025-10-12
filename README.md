@@ -83,6 +83,7 @@
 ---
 
 > “Cybersecurity is not only a discipline, it is a mindset.”
+> -Gideon Jembi
 
 Thank you for visiting my GitHub. If a repository helps your work, please consider leaving a star.
 
