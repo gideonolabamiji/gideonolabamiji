@@ -58,7 +58,7 @@
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/gideonolabamiji/Setting-Up-A-Virtual-Home-Lab-Project) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/gideonolabamiji/Active-Directory-Simulation-Project) |
-| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](https://github.com/gideonolabamiji/AWS-IAM-CLOUD-SECURITY-PROJECT-REPORT) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
